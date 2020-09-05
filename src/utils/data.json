@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Bank Account",
+    "type": "Transfer to bank",
+    "value": "R$1500"
+  },
+  {
+    "id": 2,
+    "title": "Shopping",
+    "type": "Nike",
+    "value": "R$3670"
+  }
+]
