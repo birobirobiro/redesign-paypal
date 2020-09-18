@@ -4,6 +4,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingTop: 18,
+    backgroundColor: "#FFF"
   },
   header: {
     height: 64,
@@ -67,8 +68,8 @@ const styles = StyleSheet.create({
   },
   activity: {
     flex: 1,
-    borderWidth: 3,
-    borderColor: "#fff",
+    borderWidth: 1,
+    borderColor: "#ddd",
     borderTopEndRadius: 25,
     borderTopStartRadius: 25,
   },
@@ -106,7 +107,7 @@ const styles = StyleSheet.create({
     marginTop: 14,
     paddingHorizontal: 16,
     paddingVertical: 8,
-    elevation: 3,
+    elevation: 5,
     borderRadius: 16,
     backgroundColor: "#FFF",
   },
